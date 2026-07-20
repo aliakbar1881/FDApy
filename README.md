@@ -1,13 +1,8 @@
 # FDApy
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![SciPy](https://img.shields.io/badge/SciPy-1.10%2B-8CAAE6.svg)](https://scipy.org/)
-
 A complete, interactive **MATLAB `fdatool` (Filter Design & Analysis Tool) alternative** built entirely in Python using **Streamlit**, **SciPy**, and **Matplotlib**. Design, analyze, test, and export digital filters with a modern, browser-based GUI.
 
-<img src="https://raw.githubusercontent.com/aliakbar1881/FDApy/images/demo.png" alt="App Screenshot" width="800"/>
+<img src="https://github.com/aliakbar1881/FDApy/blob/main/images/demo.png" alt="App Screenshot" width="800"/>
 
 ---
 
